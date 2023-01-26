@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OOP5",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Part1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Part1-Debug-66c950ce8d29874a323e.json",
+					"name" : "Part1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Part2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Part2-Debug-a36e0a6b97a46f976abc.json",
+					"name" : "Part2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestLev::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestLev-Debug-e9791642a0d808b1e6ac.json",
+					"name" : "TestLev",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/eitan/CLionProjects/OOP5/cmake-build-debug",
+		"source" : "/Users/eitan/CLionProjects/OOP5"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

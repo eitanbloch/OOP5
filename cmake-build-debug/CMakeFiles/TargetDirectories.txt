@@ -1,0 +1,5 @@
+/Users/eitan/CLionProjects/OOP5/cmake-build-debug/CMakeFiles/Part1.dir
+/Users/eitan/CLionProjects/OOP5/cmake-build-debug/CMakeFiles/Part2.dir
+/Users/eitan/CLionProjects/OOP5/cmake-build-debug/CMakeFiles/TestLev.dir
+/Users/eitan/CLionProjects/OOP5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/eitan/CLionProjects/OOP5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
